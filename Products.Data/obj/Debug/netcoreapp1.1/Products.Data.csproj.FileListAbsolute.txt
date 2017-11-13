@@ -1,0 +1,9 @@
+E:\PracticeProject\ProductsAPI\Products.Data\bin\Debug\netcoreapp1.1\Products.Data.deps.json
+E:\PracticeProject\ProductsAPI\Products.Data\bin\Debug\netcoreapp1.1\Products.Data.dll
+E:\PracticeProject\ProductsAPI\Products.Data\bin\Debug\netcoreapp1.1\Products.Data.pdb
+E:\PracticeProject\ProductsAPI\Products.Data\obj\Debug\netcoreapp1.1\Products.Data.AssemblyInfo.cs
+E:\PracticeProject\ProductsAPI\Products.Data\obj\Debug\netcoreapp1.1\Products.Data.dll
+E:\PracticeProject\ProductsAPI\Products.Data\obj\Debug\netcoreapp1.1\Products.Data.pdb
+E:\PracticeProject\ProductsAPI\Products.Data\bin\Debug\netcoreapp1.1\ProductsApi.Model.dll
+E:\PracticeProject\ProductsAPI\Products.Data\bin\Debug\netcoreapp1.1\ProductsApi.Model.pdb
+E:\PracticeProject\ProductsAPI\Products.Data\obj\Debug\netcoreapp1.1\Products.Data.csprojResolveAssemblyReference.cache

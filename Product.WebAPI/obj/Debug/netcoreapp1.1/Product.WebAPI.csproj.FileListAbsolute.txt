@@ -1,0 +1,9 @@
+E:\PracticeProject\ProductsAPI\Product.WebAPI\bin\Debug\netcoreapp1.1\Product.WebAPI.deps.json
+E:\PracticeProject\ProductsAPI\Product.WebAPI\bin\Debug\netcoreapp1.1\Product.WebAPI.runtimeconfig.json
+E:\PracticeProject\ProductsAPI\Product.WebAPI\bin\Debug\netcoreapp1.1\Product.WebAPI.runtimeconfig.dev.json
+E:\PracticeProject\ProductsAPI\Product.WebAPI\bin\Debug\netcoreapp1.1\Product.WebAPI.dll
+E:\PracticeProject\ProductsAPI\Product.WebAPI\bin\Debug\netcoreapp1.1\Product.WebAPI.pdb
+E:\PracticeProject\ProductsAPI\Product.WebAPI\obj\Debug\netcoreapp1.1\Product.WebAPI.csprojResolveAssemblyReference.cache
+E:\PracticeProject\ProductsAPI\Product.WebAPI\obj\Debug\netcoreapp1.1\Product.WebAPI.AssemblyInfo.cs
+E:\PracticeProject\ProductsAPI\Product.WebAPI\obj\Debug\netcoreapp1.1\Product.WebAPI.dll
+E:\PracticeProject\ProductsAPI\Product.WebAPI\obj\Debug\netcoreapp1.1\Product.WebAPI.pdb
